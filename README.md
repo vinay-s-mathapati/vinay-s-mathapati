@@ -1,4 +1,7 @@
 ## Hi there 👋
+## PYTHON
+🔭 I’m currently working on git and github
+🌱 I’m currently learning data analysis and DSA in python
 
 
 
@@ -10,6 +13,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on git and github
 - 🌱 I’m currently learning data analysis and DSA in python
 
-- 💬 Ask me about python
+
 
 -->
